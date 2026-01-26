@@ -1,14 +1,33 @@
-- 👋 Hi, I’m @kashfeetraza
-- Minhaj University Lahore
-- BSCS(current student)
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning JavaScript...
-- 💞️ I’m looking to collaborate on Multi-National Companies...
-- 📫 How to reach me on fiver, upwork, facebook...
-- 😄 Pronouns: he/him...
-- ⚡ Fun fact: love to play with algo...
-
-<!---
-kashfeetraza/kashfeetraza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @kashfeetraza
+🎓 BSCS Student at Minhaj University Lahore
+💻 Web Developer | JavaScript Learner | Problem Solver
+🌐 Web Development Focus
+🧱 Frontend Development
+#HTML5
+CSS3
+JavaScript (ES6+)
+🎨 Responsive & modern UI design
+🧠 Strong understanding of logic & algorithms
+🔧 Learning best practices for clean & scalable code
+🚀 Currently Learning
+🌱 JavaScript (Advanced Concepts)
+⚛️ Frontend frameworks (React – coming soon)
+🌍 Basics of Backend Development
+🗄️ Databases (MySQL / MongoDB – upcoming)
+🛠️ Tools & Technologies
+🧑‍💻 VS Code
+🌐 Git & GitHub
+📦 NPM
+🎯 Chrome DevTools
+💞️ Collaboration & Goals
+🤝 Open to collaborating on Web Development Projects
+🌍 Aspiring to work with Multi-National Companies
+📈 Goal: Become a Full-Stack Web Developer
+📫 Connect With Me
+🧑‍💻 Fiverr
+💼 Upwork
+📘 Facebook
+😄 Pronouns
+He / Him
+⚡ Fun Fact
+I love playing with algorithms and solving challenging problems 😄
