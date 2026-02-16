@@ -1,33 +1,19 @@
-👋 Hi, I’m @kashfeetraza
+👋 Hi, I’m Kashfeet Raza
 🎓 BSCS Student at Minhaj University Lahore
-💻 Web Developer | JavaScript Learner | Problem Solver
-🌐 Web Development Focus
-🧱 Frontend Development
-#HTML5
-CSS3
-JavaScript (ES6+)
-🎨 Responsive & modern UI design
-🧠 Strong understanding of logic & algorithms
-🔧 Learning best practices for clean & scalable code
-🚀 Currently Learning
-🌱 JavaScript (Advanced Concepts)
-⚛️ Frontend frameworks (React – coming soon)
-🌍 Basics of Backend Development
-🗄️ Databases (MySQL / MongoDB – upcoming)
-🛠️ Tools & Technologies
-🧑‍💻 VS Code
-🌐 Git & GitHub
-📦 NPM
-🎯 Chrome DevTools
-💞️ Collaboration & Goals
-🤝 Open to collaborating on Web Development Projects
-🌍 Aspiring to work with Multi-National Companies
-📈 Goal: Become a Full-Stack Web Developer
-📫 Connect With Me
-🧑‍💻 Fiverr
-💼 Upwork
-📘 Facebook
-😄 Pronouns
-He / Him
-⚡ Fun Fact
-I love playing with algorithms and solving challenging problems 😄
+💻 Passionate Web Developer | JavaScript Enthusiast | Problem Solver
+🌐 Turning ideas into responsive, modern, and user-friendly websites
+🧱 Strong foundation in HTML5, CSS3 & JavaScript (ES6+)
+🎨 Crafting clean, interactive, and visually appealing UI designs
+🧠 Logic-driven thinker with strong problem-solving skills
+🔧 Focused on writing clean, scalable, and efficient code
+🚀 Currently mastering Advanced JavaScript concepts
+⚛️ Preparing to build dynamic apps with React.js
+🌍 Exploring Backend Development to become Full-Stack
+🗄️ Learning MySQL & MongoDB for database management
+🛠️ Tools I use daily: VS Code, Git, GitHub, NPM, Chrome DevTools
+🤝 Open to collaboration on exciting Web Development projects
+🌍 Dreaming big — aiming to work with top multinational companies
+🎯 Mission: Become a professional Full-Stack Web Developer
+💼 Available for freelance work on Fiverr & Upwork
+📘 Let’s connect and grow together
+⚡ Fun fact: I genuinely enjoy solving complex algorithms and coding challenges
